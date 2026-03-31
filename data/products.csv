@@ -1,0 +1,51 @@
+product_id,name,category,price,cost,stock_quantity
+1,Wireless Mouse,Electronics,29.99,15.00,250
+2,Bluetooth Keyboard,Electronics,59.99,30.00,180
+3,USB-C Cable,Electronics,12.99,5.00,500
+4,Laptop Stand,Accessories,45.00,20.00,120
+5,Phone Case,Accessories,19.99,8.00,400
+6,Screen Protector,Accessories,9.99,3.00,600
+7,Portable Charger,Electronics,39.99,18.00,200
+8,HDMI Cable,Electronics,15.99,6.00,350
+9,Desk Lamp,Furniture,34.99,16.00,100
+10,Office Chair,Furniture,199.99,95.00,45
+11,Monitor,Electronics,299.99,150.00,75
+12,Webcam,Electronics,79.99,40.00,130
+13,Microphone,Electronics,89.99,45.00,95
+14,Headphones,Electronics,149.99,70.00,160
+15,Mouse Pad,Accessories,14.99,5.00,300
+16,Laptop Bag,Accessories,49.99,22.00,85
+17,External SSD,Electronics,119.99,60.00,110
+18,USB Hub,Electronics,24.99,10.00,220
+19,Ethernet Cable,Electronics,11.99,4.00,400
+20,Cable Organizer,Accessories,8.99,3.00,450
+21,Desk Organizer,Accessories,22.99,9.00,140
+22,Notebook,Stationery,7.99,2.50,600
+23,Pen Set,Stationery,12.99,4.00,500
+24,Sticky Notes,Stationery,5.99,1.50,800
+25,Stapler,Stationery,9.99,3.50,250
+26,Paper Clips,Stationery,3.99,1.00,1000
+27,Folders,Stationery,6.99,2.00,400
+28,Binder,Stationery,8.99,3.00,300
+29,Whiteboard,Furniture,89.99,42.00,60
+30,Markers,Stationery,11.99,4.50,350
+31,Eraser,Stationery,2.99,0.80,700
+32,Ruler,Stationery,4.99,1.50,450
+33,Scissors,Stationery,7.99,2.80,380
+34,Tape Dispenser,Stationery,6.99,2.20,420
+35,Calculator,Electronics,19.99,8.50,200
+36,Desk Calendar,Stationery,14.99,5.50,180
+37,Wall Clock,Furniture,29.99,12.00,95
+38,Trash Can,Furniture,24.99,10.00,120
+39,Water Bottle,Accessories,16.99,6.50,300
+40,Coffee Mug,Accessories,12.99,4.50,400
+41,Coaster Set,Accessories,9.99,3.20,280
+42,Plant Pot,Furniture,18.99,7.00,150
+43,Picture Frame,Furniture,22.99,9.50,110
+44,Bookmark,Stationery,3.99,1.20,600
+45,Highlighter Set,Stationery,8.99,3.00,420
+46,Correction Tape,Stationery,4.99,1.50,500
+47,Pushpins,Stationery,3.49,1.00,650
+48,Rubber Bands,Stationery,2.99,0.90,900
+49,Paperweight,Accessories,15.99,6.00,170
+50,Desktop Fan,Electronics,34.99,15.50,105
